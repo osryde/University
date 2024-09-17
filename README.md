@@ -7,9 +7,10 @@
 
 
 ## Elenco Repository Magistrale
-- ...
-- ...
-- ...
+- Linguaggi, Interpreti e Compilatori
+- Quantum Computing
+- Programmazione dichiarativa
+- Sicurezza informatica
 
 
 *Facoltà di Informatica presso l'Università degli Studi di Parma (Unipr).*
