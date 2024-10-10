@@ -13,4 +13,4 @@
 - Sicurezza informatica
 
 
-*Facoltà di Informatica presso l'Università degli Studi di Parma (Unipr).*
+*Facoltà di Scienze Informatiche presso l'Università degli Studi di Parma (Unipr).*
