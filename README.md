@@ -7,8 +7,8 @@
 
 
 ## Elenco Repository Magistrale
-- Linguaggi, Interpreti e Compilatori
-- Quantum Computing
+- Linguaggi, Interpreti e Compilatori 
+- Modellazione e Simulazioni Numeriche
 - Programmazione dichiarativa
 - Sicurezza informatica
 
