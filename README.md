@@ -8,7 +8,7 @@
 
 ## Elenco Repository Magistrale
 - 🤖 [Progetto Programmazione Dichiarativa](https://github.com/osryde/Move-Blocks)
-
+- 🧮 [Progetto Simulazioni e Modellazioni Numeriche](https://github.com/osryde/Progetto-Percolazione.git)
 
 
 *Facoltà di Scienze Informatiche presso l'Università degli Studi di Parma (Unipr).*
