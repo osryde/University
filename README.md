@@ -7,10 +7,8 @@
 
 
 ## Elenco Repository Magistrale
-- Linguaggi, Interpreti e Compilatori 
-- Modellazione e Simulazioni Numeriche
-- Programmazione dichiarativa
-- Sicurezza informatica
+- 🤖 [Progetto Programmazione Dichiarativa](https://github.com/osryde/Move-Blocks)
+
 
 
 *Facoltà di Scienze Informatiche presso l'Università degli Studi di Parma (Unipr).*
